@@ -2,6 +2,8 @@
 
 Este proyecto tiene como objetivo scrapear un sitio web para obtener enlaces de novelas ligeras y almacenarlos en un archivo JSON. Luego, permite al usuario seleccionar una novela y ver los enlaces disponibles.
 
+![img1](img/img1.png)
+
 ## Requisitos
 
 - Python 3.x
